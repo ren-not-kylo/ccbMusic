@@ -2,7 +2,7 @@
   "name": "elagant-music-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "ccbmusic.tech",
+  "homepage": "http://ccbmusic.tech/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
